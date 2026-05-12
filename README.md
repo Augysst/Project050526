@@ -11,4 +11,6 @@ Pracując z pozycją obrazów, spodziewałem się,
 
 Z czym miał Pan/Pani trudność:
 Miałem duże problemy z obrazami, nie mogłem ich zainstalować tak,
-jak pierwotnie zamierzałem
+jak pierwotnie zamierzałem. Miałem też problem ze stworzeniem strony dla telefonów,
+bo nigdy wcześniej się z czymś takim nie spotkałem.
+
